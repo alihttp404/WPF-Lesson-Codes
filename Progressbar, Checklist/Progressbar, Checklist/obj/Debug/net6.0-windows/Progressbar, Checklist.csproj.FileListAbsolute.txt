@@ -1,0 +1,21 @@
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\bin\Debug\net6.0-windows\Progressbar, Checklist.exe
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\bin\Debug\net6.0-windows\Progressbar, Checklist.deps.json
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\bin\Debug\net6.0-windows\Progressbar, Checklist.runtimeconfig.json
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\bin\Debug\net6.0-windows\Progressbar, Checklist.dll
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\bin\Debug\net6.0-windows\Progressbar, Checklist.pdb
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.csproj.AssemblyReference.cache
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist_MarkupCompile.cache
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist_MarkupCompile.lref
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.g.resources
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.AssemblyInfoInputs.cache
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.AssemblyInfo.cs
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.csproj.CoreCompileInputs.cache
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.dll
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\refint\Progressbar, Checklist.dll
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.pdb
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\Progressbar, Checklist.genruntimeconfig.cache
+C:\Users\mamma_er07\Documents\WPF-Lesson-Codes\Progressbar, Checklist\Progressbar, Checklist\obj\Debug\net6.0-windows\ref\Progressbar, Checklist.dll
