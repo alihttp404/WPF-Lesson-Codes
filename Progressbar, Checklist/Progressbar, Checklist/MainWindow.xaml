@@ -22,7 +22,7 @@
             Width="300"
             Height="20">
         </ProgressBar>
-        
+
         <StackPanel x:Name="TrueFalseStackPanel">
             <RadioButton 
                 x:Name="TrueRadioBtn" 
