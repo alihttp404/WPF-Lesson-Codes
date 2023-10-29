@@ -20,14 +20,13 @@ namespace command
 
         public Car()
         {
-            make = "";
-            model = "";
+
         }
 
         public Car(string? make, string? model)
         {
-            Make = make ?? "";
-            Model = model ?? "";
+            Make = make ;
+            Model = model ;
         }
 
         public override string ToString()

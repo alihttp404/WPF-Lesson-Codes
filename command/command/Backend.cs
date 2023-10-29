@@ -18,10 +18,21 @@ namespace command
         public ICommand SaveCommand { get; set; }
 
         private Car _car;
-        public Car car { get => _car; set => _car = value; }
+        public Car car 
+        { 
+            get => _car; 
+            set
+            {
+                _car = value;
+                OnPropertyChanged();
+            }
+        }
 
         public Backend()
         {
+            car = new Car();
+            car.Model = "";
+            car.Make = "";
             Cars = new ObservableCollection<Car>()
             {
                 new Car("Lifan", "NAZ"),
@@ -30,7 +41,6 @@ namespace command
             };
 
             SaveCommand = new RelayCommand(Save, CanSave);
-            car = new Car();
         }
 
         public bool CanSave(object? obj)
